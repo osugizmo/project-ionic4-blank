@@ -39,6 +39,9 @@ collection/
 dist/
 tmp/
 temp/
+www/
+platform/
+plugins/
 core/theme-builder/
 core/test-components/
 core/css/
